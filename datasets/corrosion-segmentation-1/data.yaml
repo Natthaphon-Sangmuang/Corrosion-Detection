@@ -1,0 +1,12 @@
+names:
+    - corrosion
+nc: 1
+roboflow:
+    license: CC BY 4.0
+    project: corrosion-segmentation
+    url: https://universe.roboflow.com/natthaphon-sangmuang-mrsvt/corrosion-segmentation/dataset/2
+    version: 2
+    workspace: natthaphon-sangmuang-mrsvt
+test: C:\Users\ppon1\OneDrive\Desktop\corrosion_detection\datasets\corrosion-segmentation-1\test\images
+train: C:\Users\ppon1\OneDrive\Desktop\corrosion_detection\datasets\corrosion-segmentation-1\train\images
+val: C:\Users\ppon1\OneDrive\Desktop\corrosion_detection\datasets\corrosion-segmentation-1\valid\images
